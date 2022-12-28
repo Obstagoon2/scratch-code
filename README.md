@@ -1,4 +1,4 @@
-# scrtach-code
+# scratch-code
 neat little scripts for scratch
 To Use
 download
