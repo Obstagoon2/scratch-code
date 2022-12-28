@@ -4,5 +4,5 @@ To Use
 download
 go to scratch 
 open a project
-click uploda sprite
-upload the .sb3 format file
+click uplod sprite
+upload the .sprite3 format file
